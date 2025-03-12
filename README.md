@@ -1,2 +1,2 @@
 # hello-world
-programa introductorio de git
+programa introductorio para aprender python
